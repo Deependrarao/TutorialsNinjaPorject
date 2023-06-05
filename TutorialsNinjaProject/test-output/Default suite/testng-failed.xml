@@ -3,14 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tnp.TutorialsNinjaProject.Search">
+      <class name="tnp.TutorialsNinjaProject.Login">
         <methods>
-          <include name="verifySearchWithInvalidProduct"/>
-          <include name="tearDown"/>
+          <include name="closer"/>
           <include name="setUp"/>
-          <include name="verifySearchWithoutAnyProduct"/>
+          <include name="verifyLoginWithValidCredentials"/>
         </methods>
-      </class> <!-- tnp.TutorialsNinjaProject.Search -->
+      </class> <!-- tnp.TutorialsNinjaProject.Login -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

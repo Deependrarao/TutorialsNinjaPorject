@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
-  <test thread-count="5" name="Test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tnp.TutorialsNinjaProject.Search">
+      <class name="tnp.TutorialsNinjaProject.Login">
         <methods>
-          <include name="tearDown"/>
+          <include name="closer"/>
           <include name="setUp"/>
-          <include name="verifySearchWithoutAnyProduct"/>
+          <include name="verifyLoginWithValidCredentials"/>
         </methods>
-      </class> <!-- tnp.TutorialsNinjaProject.Search -->
-      <class name="tnp.TutorialsNinjaProject.Register">
-        <methods>
-          <include name="verifyRegisteringAccountWithoutFillingAnyDetails"/>
-          <include name="tearDown"/>
-          <include name="SetUp"/>
-        </methods>
-      </class> <!-- tnp.TutorialsNinjaProject.Register -->
+      </class> <!-- tnp.TutorialsNinjaProject.Login -->
     </classes>
-  </test> <!-- Test(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
