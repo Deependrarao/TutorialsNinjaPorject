@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="84490" started-at="2023-06-03T15:47:22 IST" finished-at="2023-06-03T15:48:47 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="84490" started-at="2023-06-03T15:47:22 IST" finished-at="2023-06-03T15:48:47 IST">
+      <class name="tnp.TutorialsNinjaProject.Search">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tnp.TutorialsNinjaProject.Search@8e24743]" name="setUp" is-config="true" duration-ms="3976" started-at="2023-06-03T15:47:56 IST" finished-at="2023-06-03T15:48:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySearchWithValidProduct()[pri:1, instance:tnp.TutorialsNinjaProject.Search@8e24743]" name="verifySearchWithValidProduct" duration-ms="834" started-at="2023-06-03T15:48:00 IST" finished-at="2023-06-03T15:48:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithValidProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tnp.TutorialsNinjaProject.Search@8e24743]" name="tearDown" is-config="true" duration-ms="751" started-at="2023-06-03T15:48:01 IST" finished-at="2023-06-03T15:48:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tnp.TutorialsNinjaProject.Search@8e24743]" name="setUp" is-config="true" duration-ms="3851" started-at="2023-06-03T15:48:01 IST" finished-at="2023-06-03T15:48:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySearchWithInvalidProduct()[pri:2, instance:tnp.TutorialsNinjaProject.Search@8e24743]" name="verifySearchWithInvalidProduct" duration-ms="620" started-at="2023-06-03T15:48:05 IST" finished-at="2023-06-03T15:48:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithInvalidProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tnp.TutorialsNinjaProject.Search@8e24743]" name="tearDown" is-config="true" duration-ms="1000" started-at="2023-06-03T15:48:06 IST" finished-at="2023-06-03T15:48:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tnp.TutorialsNinjaProject.Search@8e24743]" name="setUp" is-config="true" duration-ms="3192" started-at="2023-06-03T15:48:07 IST" finished-at="2023-06-03T15:48:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySearchWithoutAnyProduct()[pri:3, instance:tnp.TutorialsNinjaProject.Search@8e24743]" name="verifySearchWithoutAnyProduct" duration-ms="665" started-at="2023-06-03T15:48:10 IST" finished-at="2023-06-03T15:48:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithoutAnyProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tnp.TutorialsNinjaProject.Search@8e24743]" name="tearDown" is-config="true" duration-ms="938" started-at="2023-06-03T15:48:11 IST" finished-at="2023-06-03T15:48:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tnp.TutorialsNinjaProject.Search -->
+      <class name="tnp.TutorialsNinjaProject.Register">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="SetUp" is-config="true" duration-ms="4230" started-at="2023-06-03T15:48:12 IST" finished-at="2023-06-03T15:48:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyRegisteringAndAccountWithMandtoryField()[pri:1, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="verifyRegisteringAndAccountWithMandtoryField" duration-ms="1698" started-at="2023-06-03T15:48:16 IST" finished-at="2023-06-03T15:48:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAndAccountWithMandtoryField -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="tearDown" is-config="true" duration-ms="936" started-at="2023-06-03T15:48:17 IST" finished-at="2023-06-03T15:48:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="SetUp" is-config="true" duration-ms="4258" started-at="2023-06-03T15:48:18 IST" finished-at="2023-06-03T15:48:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyRegisteringAccountByProvidingAllFileds()[pri:2, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="verifyRegisteringAccountByProvidingAllFileds" duration-ms="1731" started-at="2023-06-03T15:48:23 IST" finished-at="2023-06-03T15:48:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountByProvidingAllFileds -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="tearDown" is-config="true" duration-ms="907" started-at="2023-06-03T15:48:24 IST" finished-at="2023-06-03T15:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="SetUp" is-config="true" duration-ms="4768" started-at="2023-06-03T15:48:25 IST" finished-at="2023-06-03T15:48:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyRegisteringAccountWithExistingEmailAddress()[pri:3, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="verifyRegisteringAccountWithExistingEmailAddress" duration-ms="8770" started-at="2023-06-03T15:48:30 IST" finished-at="2023-06-03T15:48:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithExistingEmailAddress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="tearDown" is-config="true" duration-ms="939" started-at="2023-06-03T15:48:39 IST" finished-at="2023-06-03T15:48:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="SetUp" is-config="true" duration-ms="5608" started-at="2023-06-03T15:48:40 IST" finished-at="2023-06-03T15:48:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyRegisteringAccountWithoutFillingAnyDetails()[pri:4, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="verifyRegisteringAccountWithoutFillingAnyDetails" duration-ms="644" started-at="2023-06-03T15:48:45 IST" finished-at="2023-06-03T15:48:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithoutFillingAnyDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tnp.TutorialsNinjaProject.Register@74a10858]" name="tearDown" is-config="true" duration-ms="757" started-at="2023-06-03T15:48:46 IST" finished-at="2023-06-03T15:48:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tnp.TutorialsNinjaProject.Register -->
+      <class name="tnp.TutorialsNinjaProject.Login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="setUp" is-config="true" duration-ms="7517" started-at="2023-06-03T15:47:22 IST" finished-at="2023-06-03T15:47:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginWithValidCredentials()[pri:1, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="verifyLoginWithValidCredentials" duration-ms="1499" started-at="2023-06-03T15:47:30 IST" finished-at="2023-06-03T15:47:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method status="PASS" signature="closer()[pri:0, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="closer" is-config="true" duration-ms="818" started-at="2023-06-03T15:47:31 IST" finished-at="2023-06-03T15:47:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closer -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="setUp" is-config="true" duration-ms="4839" started-at="2023-06-03T15:47:32 IST" finished-at="2023-06-03T15:47:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginWithInValidCredentials()[pri:2, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="verifyLoginWithInValidCredentials" duration-ms="825" started-at="2023-06-03T15:47:37 IST" finished-at="2023-06-03T15:47:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidCredentials -->
+        <test-method status="PASS" signature="closer()[pri:0, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="closer" is-config="true" duration-ms="1173" started-at="2023-06-03T15:47:38 IST" finished-at="2023-06-03T15:47:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closer -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="setUp" is-config="true" duration-ms="3798" started-at="2023-06-03T15:47:39 IST" finished-at="2023-06-03T15:47:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginWithInvalidEmailAndValidPassword()[pri:3, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="verifyLoginWithInvalidEmailAndValidPassword" duration-ms="860" started-at="2023-06-03T15:47:43 IST" finished-at="2023-06-03T15:47:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidEmailAndValidPassword -->
+        <test-method status="PASS" signature="closer()[pri:0, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="closer" is-config="true" duration-ms="931" started-at="2023-06-03T15:47:44 IST" finished-at="2023-06-03T15:47:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closer -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="setUp" is-config="true" duration-ms="3690" started-at="2023-06-03T15:47:45 IST" finished-at="2023-06-03T15:47:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginWithValidEmailAndInvalidPassword()[pri:4, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="verifyLoginWithValidEmailAndInvalidPassword" duration-ms="827" started-at="2023-06-03T15:47:48 IST" finished-at="2023-06-03T15:47:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidEmailAndInvalidPassword -->
+        <test-method status="PASS" signature="closer()[pri:0, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="closer" is-config="true" duration-ms="907" started-at="2023-06-03T15:47:49 IST" finished-at="2023-06-03T15:47:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closer -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="setUp" is-config="true" duration-ms="4306" started-at="2023-06-03T15:47:50 IST" finished-at="2023-06-03T15:47:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginWithoutCredentials()[pri:5, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="verifyLoginWithoutCredentials" duration-ms="614" started-at="2023-06-03T15:47:54 IST" finished-at="2023-06-03T15:47:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithoutCredentials -->
+        <test-method status="PASS" signature="closer()[pri:0, instance:tnp.TutorialsNinjaProject.Login@12f41634]" name="closer" is-config="true" duration-ms="707" started-at="2023-06-03T15:47:55 IST" finished-at="2023-06-03T15:47:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closer -->
+      </class> <!-- tnp.TutorialsNinjaProject.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
